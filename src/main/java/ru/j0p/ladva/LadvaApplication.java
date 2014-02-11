@@ -1,4 +1,4 @@
-package ladva;
+package ru.j0p.ladva;
 
 import com.sun.jna.Native;
 import com.sun.jna.Platform;
@@ -8,8 +8,6 @@ import com.sun.jna.platform.win32.WinDef;
 import com.sun.jna.win32.StdCallLibrary;
 
 import java.awt.AWTException;
-
-import ladva.lineage.LineageClicker;
 
 public class LadvaApplication {
     private static LineageClicker lineageClicker;

@@ -1,4 +1,4 @@
-package ladva.lineage;
+package ru.j0p.ladva;
 
 import java.awt.AWTException;
 import java.awt.Color;
